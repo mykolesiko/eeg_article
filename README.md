@@ -23,12 +23,12 @@ MADE_SamEn_IDF.ipynb
 https://sci-hub.wf/10.1016/j.neulet.2016.09.037  
 
 
-Обзор по глубоким моделям  
-https://docs.google.com/document/d/1t8yB1xxOpqGrRG3ldcnNtx_KzFkRvole/edit?usp=sharing&ouid=117905216660251398553&rtpof=true&sd=true  
+Обзор по глубоким моделям    
+https://docs.google.com/document/d/1t8yB1xxOpqGrRG3ldcnNtx_KzFkRvole/edit?usp=sharing&ouid=117905216660251398553&rtpof=true&sd=true    
 Можно посмотреть по ссылкам, на те статьи, где разбиение показалось не норм – там отмечены фразы, которые не норм.  
 зеленым помечено, что показалось, нормальным  
 
-Обзор по неглубоким моделям
+Обзор по неглубоким моделям  
 https://docs.google.com/document/d/1Emil9ebUkdFS0NISxQOTBJPzWh-jY_Wc/edit?usp=sharing&ouid=117905216660251398553&rtpof=true&sd=true  
 Тут последняя статья с очень высокими скорами, вроде все хорошо в ней, понятно как делать, у меня не получилось ее воспроизвести.   
 
