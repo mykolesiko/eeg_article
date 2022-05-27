@@ -1,9 +1,9 @@
 # egg_article
 
-модель 1
-MADE_RACNN.ipynb
-https://drive.google.com/file/d/1ia3W9vgdZLurEx4R7ndVL05clQLEarKF/view?usp=sharing
-
+модель 1  
+MADE_RACNN.ipynb  
+https://drive.google.com/file/d/1ia3W9vgdZLurEx4R7ndVL05clQLEarKF/view?usp=sharing  
+ 
 модель 2
 MADE_PCC.ipynb
 MADE_PSD_leak.ipynb
